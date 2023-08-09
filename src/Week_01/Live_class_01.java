@@ -1,6 +1,6 @@
 package Week_01;
 
-   public class Live_class {
+   public class Live_class_01 {
       public static void main (String[]args){
 	     System.out.println("4 *3 = 12 ");
 	     System.out.println(4);
