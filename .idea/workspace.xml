@@ -5,10 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="761940c0-f22b-4f4b-8302-7893965d6f14" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week_02/deneme_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_02/Question_02_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_02/Question_02_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_02/Question_02_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_02/Question_02_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_02/Question_02_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_02/Question_02_06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_02/Question_02_07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_02/Question_02_08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_02/Question_02_09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_02/Question_02_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_02/Question_02_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_02/Question_02_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_02/Question_02_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_02/Question_02_14.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_01/kdkn.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,13 +57,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Question_01_01">
-    <configuration name="Deneme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_01.Deneme" />
+  <component name="RunManager" selected="Application.Question_02_13">
+    <configuration name="Question_02_08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_02.Question_02_08" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_01.*" />
+          <option name="PATTERN" value="Week_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Live_class_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_01.Live_class_01" />
+    <configuration name="Question_02_09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_02.Question_02_09" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_01.*" />
+          <option name="PATTERN" value="Week_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,19 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="lnar-Java-Course" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Question_01_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_01.Question_01_01" />
+    <configuration name="Question_02_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_02.Question_02_11" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_01.*" />
+          <option name="PATTERN" value="Week_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +97,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question_01_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_01.Question_01_02" />
+    <configuration name="Question_02_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_02.Question_02_12" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_01.*" />
+          <option name="PATTERN" value="Week_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question_02_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_02.Question_02_13" />
+      <module name="lnar-Java-Course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Question_01_01" />
-        <item itemvalue="Application.Deneme" />
-        <item itemvalue="Application.Question_01_02" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Live_class_01" />
+        <item itemvalue="Application.Question_02_13" />
+        <item itemvalue="Application.Question_02_12" />
+        <item itemvalue="Application.Question_02_11" />
+        <item itemvalue="Application.Question_02_08" />
+        <item itemvalue="Application.Question_02_09" />
       </list>
     </recent_temporary>
   </component>
@@ -134,6 +151,29 @@
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>13</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Week_02/Question_02_12.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Week_02/Question_02_09.java</url>
+          <line>5</line>
+          <properties class="Week_02.Question_02_09" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Week_02/Question_02_08.java</url>
+          <line>5</line>
+          <properties class="Week_02.Question_02_08" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
