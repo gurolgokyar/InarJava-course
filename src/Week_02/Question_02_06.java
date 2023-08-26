@@ -1,4 +1,4 @@
-package Week_02;
+package week_02;
 import java.util.Scanner;
 public class Question_02_06 {
     public static void main (String[] args){

@@ -5,18 +5,80 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="761940c0-f22b-4f4b-8302-7893965d6f14" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week_02/Question_02_15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_02/Question_02_16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_02/Question_02_17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_02/Question_02_18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_02/Question_02_19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_02/Question_02_20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_02/Question_02_21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_02/Question_02_22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_02/Question_02_23.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_01/Live_class_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_01/Live_class_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_01/Question_01_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_01/Question_01_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_01/Question_01_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_01/Question_01_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_01/Question_01_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_01/Question_01_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_01/Question_01_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_01/Question_01_04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_01/Question_01_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_01/Question_01_05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_01/Question_01_06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_01/Question_01_06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_01/Question_01_07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_01/Question_01_07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_01/Question_01_08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_01/Question_01_08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_01/Question_01_09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_01/Question_01_09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_01/Question_01_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_01/Question_01_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_01/Question_01_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_01/Question_01_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_01/Question_01_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_01/Question_01_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_01/Question_01_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_01/Question_01_13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_02/Live_class_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_02/Live_class_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_02/Question_02_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_02/Question_02_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_02/Question_02_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_02/Question_02_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_02/Question_02_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_02/Question_02_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_02/Question_02_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_02/Question_02_04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_02/Question_02_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_02/Question_02_05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_02/Question_02_06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_02/Question_02_06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_02/Question_02_07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_02/Question_02_07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_02/Question_02_08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_02/Question_02_08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_02/Question_02_09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_02/Question_02_09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_02/Question_02_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_02/Question_02_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_02/Question_02_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_02/Question_02_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_02/Question_02_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_02/Question_02_12.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Week_02/Question_02_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_02/Question_02_13.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Week_02/Question_02_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_02/Question_02_14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_02/Question_02_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_02/Question_02_15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_02/Question_02_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_02/Question_02_16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_02/Question_02_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_02/Question_02_17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_02/Question_02_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_02/Question_02_18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_02/Question_02_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_02/Question_02_19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_02/Question_02_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_02/Question_02_20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_02/Question_02_21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_02/Question_02_21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_02/Question_02_22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_02/Question_02_22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_02/Question_02_23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_02/Question_02_23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_28.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_29.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_29.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_30.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_30.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_31.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_32.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_33.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_34.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_04/live_class/CommonMathematicalFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_04/live_class/CommonMathematicalFunctions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,16 +113,16 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/user/Desktop/WorkSpace/lnar-Java-Course/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;copyright.filetypes.JAVA&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Question_02_13">
-    <configuration name="Question_02_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_02.Question_02_13" />
+  <component name="RunManager" selected="Application.CommonMathematicalFunctions">
+    <configuration name="CommonMathematicalFunctions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_04.live_class.CommonMathematicalFunctions" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_02.*" />
+          <option name="PATTERN" value="Week_04.live_class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question_02_20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_02.Question_02_20" />
+    <configuration name="Question_03_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_03.assignments.Question_03_10" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_02.*" />
+          <option name="PATTERN" value="Week_03.assignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question_02_21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_02.Question_02_21" />
+    <configuration name="Question_03_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_03.assignments.Question_03_13" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_02.*" />
+          <option name="PATTERN" value="Week_03.assignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question_02_22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_02.Question_02_22" />
+    <configuration name="Question_03_21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_03.assignments.Question_03_21" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_02.*" />
+          <option name="PATTERN" value="Week_03.assignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +169,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question_02_23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_02.Question_02_23" />
+    <configuration name="Question_03_27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_03.assignments.Question_03_27" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_02.*" />
+          <option name="PATTERN" value="Week_03.assignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Question_02_13" />
-        <item itemvalue="Application.Question_02_23" />
-        <item itemvalue="Application.Question_02_22" />
-        <item itemvalue="Application.Question_02_21" />
-        <item itemvalue="Application.Question_02_20" />
+        <item itemvalue="Application.CommonMathematicalFunctions" />
+        <item itemvalue="Application.Question_03_10" />
+        <item itemvalue="Application.Question_03_27" />
+        <item itemvalue="Application.Question_03_21" />
+        <item itemvalue="Application.Question_03_13" />
       </list>
     </recent_temporary>
   </component>
@@ -150,36 +212,128 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Week_02/Question_02_12.java</url>
+          <url>file://$PROJECT_DIR$/src/week_02/Question_02_12.java</url>
           <line>4</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/week_03/assignments/Question_03_01.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/week_03/assignments/Question_03_07.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/week_03/assignments/Question_03_15.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/week_03/assignments/Question_03_27.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Week_02/Question_02_09.java</url>
+          <url>file://$PROJECT_DIR$/src/week_02/Question_02_09.java</url>
           <line>5</line>
-          <properties class="Week_02.Question_02_09" method="main">
+          <properties class="Week_02.Question_02_09">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Week_02/Question_02_08.java</url>
+          <url>file://$PROJECT_DIR$/src/week_02/Question_02_08.java</url>
           <line>5</line>
-          <properties class="Week_02.Question_02_08" method="main">
+          <properties class="Week_02.Question_02_08">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Week_02/Question_02_22.java</url>
+          <url>file://$PROJECT_DIR$/src/week_02/Question_02_22.java</url>
           <line>5</line>
-          <properties class="Week_02.Question_02_22" method="main">
+          <properties class="Week_02.Question_02_22">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/week_03/assignments/Question_03_06.java</url>
+          <line>5</line>
+          <properties class="Week_03.assignments.Question_03_06">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/week_03/assignments/Question_03_11.java</url>
+          <line>5</line>
+          <properties class="Week_03.assignments.Question_03_11">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/week_03/assignments/Question_03_12.java</url>
+          <line>5</line>
+          <properties class="Week_03.assignments.Question_03_12">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/week_03/assignments/Question_03_15.java</url>
+          <line>5</line>
+          <properties class="Week_03.assignments.Question_03_15">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/week_03/assignments/Question_03_17.java</url>
+          <line>5</line>
+          <properties class="Week_03.assignments.Question_03_17">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/week_03/assignments/Question_03_24.java</url>
+          <line>4</line>
+          <properties class="Week_03.assignments.Question_03_24">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/week_03/assignments/Question_03_13.java</url>
+          <line>5</line>
+          <properties class="Week_03.assignments.Question_03_13">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/week_04/live_class/CommonMathematicalFunctions.java</url>
+          <line>5</line>
+          <properties class="Week_04.live_class.CommonMathematicalFunctions">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

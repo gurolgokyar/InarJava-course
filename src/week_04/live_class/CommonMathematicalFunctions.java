@@ -1,4 +1,4 @@
-package Week_04.live_class;
+package week_04.live_class;
 
 import java.util.Scanner;
 
@@ -24,7 +24,7 @@ public class CommonMathematicalFunctions {
         double gym2=input.nextDouble();
         double num3= input.nextDouble();
 
-        double gym1Distance=Math. gym1);
+        double gym1Distance=Math. abs(gym1);
         double gym2Distance=Math.abs(gym1);
         double gym3Distance=Math.abs(gym1);
 
