@@ -1,7 +1,5 @@
 package week_02;
 
-import javax.swing.plaf.synth.SynthOptionPaneUI;
-
 public class Question_02_18 {
     public static void main(String[] args) {
         System.out.println("a      b      pow(a,b)");
