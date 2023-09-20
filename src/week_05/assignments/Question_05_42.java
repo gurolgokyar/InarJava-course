@@ -9,8 +9,8 @@ public class Question_05_42 {
         double goalCommission = input.nextDouble();
 
          double commission=0;
-         int sale;
-        for (sale = 1; commission < goalCommission; sale++) {
+         double sale;
+        for (sale =0.01; commission < goalCommission; sale+=0.01) {
             commission = 0;
             commission += (sale <= 5000 ? sale * 0.08 : 5000 * 0.08);
 
@@ -22,6 +22,6 @@ public class Question_05_42 {
             }
         }
 
-        System.out.println("Minimum sales to earn $" + goalCommission + ": $" + (sale-1));
+        System.out.printf("Minimum sales to earn $%1.2f : $%1.2f",goalCommission,sale );
     }
 }

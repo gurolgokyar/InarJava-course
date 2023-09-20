@@ -10,9 +10,13 @@ public class Question_05_34 {
         int userWins = 0;
 
         while (Math.abs(computerWins - userWins) < 3) {
-            System.out.print("scissor(0), rock(1), paper(2): ");
+            System.out.print("Enter a number for scissor(0), rock(1), paper(2): ");
             int user = input.nextInt();
 
+            if (user < 0 || user > 2) {
+                System.out.println("Invalid input!");
+                continue;
+            }
             int computer = (int) (Math.random() * 3);
 
             String userIs = switch (user) {
@@ -28,7 +32,7 @@ public class Question_05_34 {
                 default -> "";
             };
 
-            if (user == 0 && computer == 2 || user == 1 && computer == 0 || user == 2 && computer == 1) {
+            if ((user == 0 && computer == 2) || (user == 1 && computer == 0) || (user == 2 && computer == 1)) {
                 userWins++;
                 System.out.println("The computer is " + computerIs + ". You are " + userIs + ". You won");
                 System.out.println("  Computer wins: " + computerWins + "\n  User wins: " + userWins + "\n");
@@ -43,10 +47,7 @@ public class Question_05_34 {
         }
 
         //Display the final result
-        System.out.println("Final result is " + (userWins > computerWins ? "congratulations! You won" : "computer " +
-                "won. Try again"));
-
-
+        System.out.println("Final result is "+((userWins >computerWins)?"congratulations!"+
+            " "+"You won":"computer won. Try again"));
     }
-
 }

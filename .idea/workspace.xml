@@ -5,123 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="761940c0-f22b-4f4b-8302-7893965d6f14" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/week_04/assignments/Question_04_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_04/assignments/Question_04_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_04/assignments/Question_04_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_04/assignments/Question_04_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_04/assignments/Question_04_05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_04/assignments/Question_04_06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_04/assignments/Question_04_07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_04/assignments/Question_04_08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_04/assignments/Question_04_09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_04/assignments/Question_04_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_04/assignments/Question_04_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_04/assignments/Question_04_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_04/assignments/Question_04_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_04/assignments/Question_04_14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_04/assignments/Question_04_15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_04/assignments/Question_04_16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_04/assignments/Question_04_17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_04/assignments/Question_04_18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_04/assignments/Question_04_19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_04/assignments/Question_04_20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_04/assignments/Question_04_21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_04/assignments/Question_04_22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_04/assignments/Question_04_23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_04/assignments/Question_04_24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_04/assignments/Question_04_25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_04/assignments/Question_04_26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_29.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_30.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_32.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_33.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_34.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_36.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_37.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_38.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_40.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_41.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_42.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_43.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_44.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_45.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_46.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_47.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_48.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_49.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_50.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_51.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/working_area/CheckingPalindromes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_05/working_area/Deneme.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_17.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_02/Question_02_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_02/Question_02_18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_03/Question_03_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_03/Question_03_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_03/Question_03_03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_03/Question_03_04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_03/Question_03_05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_03/Question_03_06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_03/Question_03_07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_03/Question_03_08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_03/Question_03_09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_03/Question_03_10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_03/Question_03_11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_03/Question_03_12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_03/Question_03_13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_03/Question_03_14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_03/Question_03_15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_03/Question_03_16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_03/Question_03_17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_03/Question_03_18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_03/Question_03_19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_03/Question_03_20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_03/Question_03_21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_03/Question_03_22.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_03/Question_03_23.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_03/Question_03_24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_03/Question_03_25.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_03/Question_03_26.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_03/Question_03_27.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_03/Question_03_28.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_29.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_03/Question_03_29.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_30.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_03/Question_03_30.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_03/Question_03_31.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_03/Question_03_32.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_03/Question_03_33.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_03/assignments/Question_03_34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_03/Question_03_34.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_04/live_class/CommonMathematicalFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_04/working_area/CommonMathematicalFunctions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_05/assignments/Question_05_08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_05/assignments/Question_05_32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_32.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_05/assignments/Question_05_34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_34.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_05/assignments/Question_05_36.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_36.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_05/assignments/Question_05_39.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_39.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_05/assignments/Question_05_42.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_42.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_05/working_area/Loops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_05/working_area/Loops.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,13 +70,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;copyright.filetypes.JAVA&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Question_05_29">
-    <configuration name="Gg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_05.working_area.Gg" />
+  <component name="RunManager" selected="Application.Question_06_17">
+    <configuration name="Question_06_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_06.assignments.Question_06_13" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week_05.working_area.*" />
+          <option name="PATTERN" value="week_06.assignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question_05_22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_05.assignments.Question_05_22" />
+    <configuration name="Question_06_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_06.assignments.Question_06_14" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week_05.assignments.*" />
+          <option name="PATTERN" value="week_06.assignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question_05_27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_05.assignments.Question_05_27" />
+    <configuration name="Question_06_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_06.assignments.Question_06_15" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week_05.assignments.*" />
+          <option name="PATTERN" value="week_06.assignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question_05_28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_05.assignments.Question_05_28" />
+    <configuration name="Question_06_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_06.assignments.Question_06_16" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week_05.assignments.*" />
+          <option name="PATTERN" value="week_06.assignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question_05_29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_05.assignments.Question_05_29" />
+    <configuration name="Question_06_17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_06.assignments.Question_06_17" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week_05.assignments.*" />
+          <option name="PATTERN" value="week_06.assignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -230,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Question_05_29" />
-        <item itemvalue="Application.Gg" />
-        <item itemvalue="Application.Question_05_28" />
-        <item itemvalue="Application.Question_05_27" />
-        <item itemvalue="Application.Question_05_22" />
+        <item itemvalue="Application.Question_06_17" />
+        <item itemvalue="Application.Question_06_16" />
+        <item itemvalue="Application.Question_06_15" />
+        <item itemvalue="Application.Question_06_14" />
+        <item itemvalue="Application.Question_06_13" />
       </list>
     </recent_temporary>
   </component>
@@ -327,6 +235,11 @@
           <url>file://$PROJECT_DIR$/src/week_05/assignments/Question_05_32.java</url>
           <line>7</line>
           <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/week_05/working_area/Loops.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="48" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/week_02/Question_02_09.java</url>

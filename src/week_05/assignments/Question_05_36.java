@@ -11,7 +11,7 @@ public class Question_05_36 {
         System.out.print("The ISBN-10 number is 0" +first9);
 
         int sum=0;
-        for (int i=9;i>=2;i--){
+        for (int i = 9; i >= 1; i--) {
             int digit=first9%10;
             first9/=10;
 

@@ -11,14 +11,10 @@ public class Question_05_08 {
         System.out.println("Enter each student's name and score");
         System.out.println("Student: 1");
 
-        input.nextLine();
-        System.out.print("Name: ");
-        String name=input.nextLine();
+        String name = "";
+        double score = 0;
 
-        System.out.print("Score: ");
-        double score = input.nextDouble();
-
-        for (int i=2;i<=numberOfStudent;i++){
+        for (int i = 1; i <= numberOfStudent; i++) {
             System.out.println("Student: "+i);
 
             input.nextLine();

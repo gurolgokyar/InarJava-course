@@ -8,12 +8,21 @@ public class Question_05_32 {
         System.out.print("Enter your lottery pick (two distinct digits): ");
         String answer = input.nextLine();
 
+        for (int i = 0; i < answer.length(); i++) {
+            if (!Character.isDigit(answer.charAt(i)) || answer.length() > 2) {
+                System.out.println("Invalid input!");
+                System.exit(1);
+            }
+        }
+
         //Generate the lottery
         char digitOfLottery1 = (char) ('0' +(int) (Math.random() * 10));
-        char digitOfLottery2 = digitOfLottery1;
-
-        while (digitOfLottery1 == digitOfLottery2) {
-            digitOfLottery2 = (char) ('0'+(int) (Math.random() * 10));
+        char digitOfLottery2;
+        while (true) {
+            digitOfLottery2 = (char) ('0' + (int) (Math.random() * 10));
+            if (digitOfLottery1 != digitOfLottery2) {
+                break;
+            }
         }
 
         //Find the answer's digits

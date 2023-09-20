@@ -5,7 +5,7 @@ public class Question_05_39 {
         double saleAmount = 0;
         double payment = 0;
 
-        while (payment <= 30000) {
+        while (payment < 30000) {
             payment = 5000;
             saleAmount += 0.01;
 
