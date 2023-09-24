@@ -5,13 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="761940c0-f22b-4f4b-8302-7893965d6f14" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_23.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_28.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_29.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_29.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_06/working_area/Example_06_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/working_area/Example_06_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_06/working_area/L.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/working_area/L.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,9 +55,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;copyright.filetypes.JAVA&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Question_06_23">
-    <configuration name="Question_06_17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_06.assignments.Question_06_17" />
+  <component name="RunManager" selected="Application.Question_06_29">
+    <configuration name="Question_06_25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_06.assignments.Question_06_25" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
@@ -66,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question_06_18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_06.assignments.Question_06_18" />
+    <configuration name="Question_06_26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_06.assignments.Question_06_26" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
@@ -79,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question_06_20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_06.assignments.Question_06_20" />
+    <configuration name="Question_06_27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_06.assignments.Question_06_27" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question_06_21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_06.assignments.Question_06_21" />
+    <configuration name="Question_06_28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_06.assignments.Question_06_28" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
@@ -105,8 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question_06_23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_06.assignments.Question_06_23" />
+    <configuration name="Question_06_29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_06.assignments.Question_06_29" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Question_06_23" />
-        <item itemvalue="Application.Question_06_21" />
-        <item itemvalue="Application.Question_06_20" />
-        <item itemvalue="Application.Question_06_18" />
-        <item itemvalue="Application.Question_06_17" />
+        <item itemvalue="Application.Question_06_29" />
+        <item itemvalue="Application.Question_06_28" />
+        <item itemvalue="Application.Question_06_27" />
+        <item itemvalue="Application.Question_06_26" />
+        <item itemvalue="Application.Question_06_25" />
       </list>
     </recent_temporary>
   </component>
