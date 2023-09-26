@@ -75,7 +75,7 @@ public class Question_06_24 {
     public static int getCurrentMonth(long milliSeconds) {
         int remainingDay = getRemainingDay(milliSeconds);
         int currentMonth = 1;
-        while (remainingDay > getNumberOfDaysInTheMonth(currentMonth, getCurrentYear(milliSeconds))) {
+        while (remainingDay >= getNumberOfDaysInTheMonth(currentMonth, getCurrentYear(milliSeconds))) {
             remainingDay -= getNumberOfDaysInTheMonth(currentMonth, getCurrentYear(milliSeconds));
             currentMonth++;
         }
@@ -90,7 +90,7 @@ public class Question_06_24 {
             totalDay -= getNumberOfDaysInTheYear(year);
             year++;
         }
-        return (totalDay == 0 ? 1 : totalDay);
+        return totalDay;
     }
 
     public static int getNumberOfDaysInTheMonth(int month, int year) {
@@ -106,14 +106,14 @@ public class Question_06_24 {
     public static int getCurrentDay(long milliSeconds) {
         int remainingDay = getRemainingDay(milliSeconds);
         int month = 1;
-        int numberOfDaysInTheMonth = getNumberOfDaysInTheMonth(month, getCurrentYear(milliSeconds));
+        int day = 1;
 
-        while (remainingDay >= numberOfDaysInTheMonth) {
-            remainingDay -= numberOfDaysInTheMonth;
+        while (remainingDay >= getNumberOfDaysInTheMonth(month, getCurrentYear(milliSeconds))) {
+            remainingDay -= getNumberOfDaysInTheMonth(month, getCurrentYear(milliSeconds));
             month++;
         }
 
-        return (remainingDay == 0 ? 1 : remainingDay);
+        return day + remainingDay;
     }
 
 

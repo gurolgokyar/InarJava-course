@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="761940c0-f22b-4f4b-8302-7893965d6f14" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_33.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_22.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_25.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_26.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_27.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_28.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_29.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_29.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/working_area/Example_06_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/working_area/Example_06_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/working_area/L.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/working_area/L.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,9 +51,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;copyright.filetypes.JAVA&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Question_06_29">
-    <configuration name="Question_06_25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_06.assignments.Question_06_25" />
+  <component name="RunManager" selected="Application.Question_06_24">
+    <configuration name="Question_06_24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_06.assignments.Question_06_24" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
@@ -69,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question_06_26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_06.assignments.Question_06_26" />
+    <configuration name="Question_06_30" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_06.assignments.Question_06_30" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
@@ -82,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question_06_27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_06.assignments.Question_06_27" />
+    <configuration name="Question_06_31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_06.assignments.Question_06_31" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question_06_28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_06.assignments.Question_06_28" />
+    <configuration name="Question_06_32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_06.assignments.Question_06_32" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
@@ -108,8 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question_06_29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_06.assignments.Question_06_29" />
+    <configuration name="Question_06_33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_06.assignments.Question_06_33" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
@@ -123,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Question_06_29" />
-        <item itemvalue="Application.Question_06_28" />
-        <item itemvalue="Application.Question_06_27" />
-        <item itemvalue="Application.Question_06_26" />
-        <item itemvalue="Application.Question_06_25" />
+        <item itemvalue="Application.Question_06_24" />
+        <item itemvalue="Application.Question_06_33" />
+        <item itemvalue="Application.Question_06_30" />
+        <item itemvalue="Application.Question_06_32" />
+        <item itemvalue="Application.Question_06_31" />
       </list>
     </recent_temporary>
   </component>
@@ -225,6 +221,11 @@
           <url>file://$PROJECT_DIR$/src/week_05/working_area/Loops.java</url>
           <line>9</line>
           <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/week_06/assignments/Question_06_31.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="49" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/week_02/Question_02_09.java</url>
@@ -342,6 +343,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/week_06/assignments/Question_06_30.java</url>
+          <line>3</line>
+          <properties class="week_06.assignments.Question_06_30" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="50" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
