@@ -9,7 +9,7 @@ public class Question_07_02 {
         System.out.print("Enter the ten integers: ");
         int[] numbers = new int[10];
 
-        for (int i = 9; i >= 0; i--) {
+        for (int i = numbers.length - 1; i >= 0; i--) {
             numbers[i] = input.nextInt();
         }
         for (int i = 0; i < 10; i++) {
