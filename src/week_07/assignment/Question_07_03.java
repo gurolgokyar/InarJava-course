@@ -18,7 +18,7 @@ public class Question_07_03 {
                 System.out.println("Invalid input!");
                continue;
             }
-            occur[number]++;
+            occur[number]++; // 0 1 2 0 0 0
         }
         //Display occur of the inputs
         printOccur(occur);
@@ -29,7 +29,7 @@ public class Question_07_03 {
             if (occur[i] == 0){
                 continue;
             }
-            System.out.println(i + " occur " + occur[i] + ((occur[i] > 1) ? " times" : " time"));
+            System.out.println(i + " occurs " + occur[i] + ((occur[i] > 1) ? " times" : " time"));
         }
     }
 
