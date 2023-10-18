@@ -29,6 +29,6 @@ public class Question_08_07 {
     public static void displayNearestPoints(double[][] points, int[] nearestPoints){
         System.out.print("The nearest points are (" +
                 points[nearestPoints[0]][0] + ", " + points[nearestPoints[0]][1] + ", " + points[nearestPoints[0]][2] + ") and (" +
-                + points[nearestPoints[1]][0] + ", " + points[nearestPoints[1]][1] + ", " + points[nearestPoints[1]][2] + ")");
+                points[nearestPoints[1]][0] + ", " + points[nearestPoints[1]][1] + ", " + points[nearestPoints[1]][2] + ")");
     }
 }
