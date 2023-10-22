@@ -12,29 +12,6 @@ public class Question_08_16 {
         }
     }
     public static void sort(int[][] array){
-      sortFirstElements(array);
-      sortRemainingElements(array);
-    }
-    public static void sortFirstElements(int[][] array){
-        for (int i = 0; i < array.length - 1; i++) {
-            int min = array[i][0];
-            int index = i;
-            for (int j = i + 1; j < array.length; j++) {
-                if (array[j][0] < min){
-                    min = array[j][0];
-                    index = j;
-                }
-            }
-            if (index != i){
-                int[] temp = array[i];
-                array[i] = array[index];
-                array[index] = temp;
-            }
-        }
-    }
-
-    public static void sortRemainingElements(int[][] array){
-
         for (int counter = 0; counter < array[0].length; counter++) {
             for (int i = 0; i < array.length - 1; i++) {
                 int min = array[i][counter];
@@ -53,7 +30,6 @@ public class Question_08_16 {
                             index = j;
                         }
                     }
-
                 }
                 if (index != i) {
                     int[] temp = array[i];
