@@ -85,7 +85,7 @@ public class Question_08_19 {
         int count;
         int number = matrix[row][column];
         for (int i = 1; i < 4; i++) {
-            if (number != matrix[row + i][column + i]){
+            if (number != matrix[row + i][column + i]){  // Notice hear !
                 return false;
             }
         }
@@ -96,13 +96,13 @@ public class Question_08_19 {
         if (row >= matrix.length- 3){
             return false;
         }
-        if (column < 3){
+        if (column < 3){  // Notice hear!
             return false;
         }
 
         int number = matrix[row][column];
         for (int i = 1; i< 4; i++){
-            if(number != matrix[row+ i][column - i]){
+            if(number != matrix[row+ i][column - i]){  //Notice hear!
                 return false;
             }
         }

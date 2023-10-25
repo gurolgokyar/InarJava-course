@@ -47,7 +47,7 @@ public class Question_08_03 {
     }
 
     public static int[][] sortArray(int[][] array) {
-        for (int i = 0; i < array.length; i++) {
+        for (int i = 0; i < array.length - 1; i++) {
             int min = array[i][1];
             int index = i;
             for (int j = i + 1; j < array.length; j++) {
