@@ -21,10 +21,8 @@ public class Question_08_11 {
         for (int i = matrix.length - 1; i >= 0 ; i--) {
             for (int j = matrix[0].length - 1; j >= 0 ; j--) {
                 if (counter < lengthOfNumber){
-                    matrix[i][j] = 48 - Integer.toBinaryString(number).charAt(lengthOfNumber - 1 - counter);
+                    matrix[i][j] = Integer.toBinaryString(number).charAt(lengthOfNumber - 1 - counter) - 48;
                     counter++;
-                } else {
-                    return matrix;
                 }
             }
         }
