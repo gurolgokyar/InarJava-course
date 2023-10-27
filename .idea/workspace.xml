@@ -6,9 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="761940c0-f22b-4f4b-8302-7893965d6f14" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_08/assignments/Question_08_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_08/assignments/Question_08_11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_08/assignments/Question_08_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_08/assignments/Question_08_12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_08/workingArea/Cube.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_08/workingArea/Cube.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_08/assignments/Question_08_24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_08/assignments/Question_08_24.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +48,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;copyright.filetypes.JAVA&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Question_08_12">
+  <component name="RunManager" selected="Application.Question_08_24">
     <configuration name="Cube" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week_08.workingArea.Cube" />
       <module name="lnar-Java-Course" />
@@ -90,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question_08_36" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_08.assignments.Question_08_36" />
+    <configuration name="Question_08_24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_08.assignments.Question_08_24" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
@@ -118,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Question_08_24" />
         <item itemvalue="Application.Question_08_12" />
         <item itemvalue="Application.Question_08_11" />
         <item itemvalue="Application.Cube" />
         <item itemvalue="Application.Question_08_37" />
-        <item itemvalue="Application.Question_08_36" />
       </list>
     </recent_temporary>
   </component>
