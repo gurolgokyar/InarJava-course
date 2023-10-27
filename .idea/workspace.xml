@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="761940c0-f22b-4f4b-8302-7893965d6f14" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/week_09/classes/SimpleCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_09/classes/TestSimpleCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_09/classes/TestTv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_09/classes/Tv.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_08/assignments/Question_08_24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_08/assignments/Question_08_24.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,20 +51,12 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;copyright.filetypes.JAVA&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Question_08_24">
-    <configuration name="Cube" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_08.workingArea.Cube" />
-      <module name="lnar-Java-Course" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week_08.workingArea.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\WorkSpace\InarAcademy_Java_course\src\week_09\classes" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestTv">
     <configuration name="Question_08_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week_08.assignments.Question_08_11" />
       <module name="lnar-Java-Course" />
@@ -101,12 +96,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question_08_37" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_08.assignments.Question_08_37" />
+    <configuration name="TestSimpleCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_09.classes.TestSimpleCircle" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week_08.assignments.*" />
+          <option name="PATTERN" value="week_09.classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_09.classes.TestTv" />
+      <module name="lnar-Java-Course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week_09.classes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestTv" />
+        <item itemvalue="Application.TestSimpleCircle" />
         <item itemvalue="Application.Question_08_24" />
         <item itemvalue="Application.Question_08_12" />
         <item itemvalue="Application.Question_08_11" />
-        <item itemvalue="Application.Cube" />
-        <item itemvalue="Application.Question_08_37" />
       </list>
     </recent_temporary>
   </component>
