@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="761940c0-f22b-4f4b-8302-7893965d6f14" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/week_09/listings_09/TestDateClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_09/listings_09/TestPoint2DClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_09/listings_09/TestRandomClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_09/Questions_09/exercise_09_01/Question_09_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_09/Questions_09/exercise_09_01/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_09/Questions_09/exercise_09_02/Question_09_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_09/Questions_09/exercise_09_02/Stock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_09/Questions_09/exercise_09_03/Question_09_03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_09/classes/SimpleCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_09/listings_09/SimpleCircle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_09/classes/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_09/listings_09/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_09/classes/TestSimpleCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_09/listings_09/TestSimpleCircle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_09/classes/TestStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_09/listings_09/TestStudent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_09/classes/TestTv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_09/listings_09/TestTv.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_09/classes/Tv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_09/listings_09/Tv.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,13 +57,39 @@
       <recent name="C:\Users\user\Desktop\WorkSpace\InarAcademy_Java_course\src\week_09\classes" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestPoint2DClass">
-    <configuration name="TestDateClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_09.listings_09.TestDateClass" />
+  <component name="RunManager" selected="Application.Question_09_03">
+    <configuration name="Question_09_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_09.Questions_09.exercise_09_01.Question_09_01" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week_09.listings_09.*" />
+          <option name="PATTERN" value="week_09.Questions_09.exercise_09_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question_09_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_09.Questions_09.exercise_09_02.Question_09_02" />
+      <module name="lnar-Java-Course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week_09.Questions_09.exercise_09_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question_09_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_09.Questions_09.exercise_09_03.Question_09_03" />
+      <module name="lnar-Java-Course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week_09.Questions_09.exercise_09_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,39 +123,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_09.listings_09.TestStudent" />
-      <module name="lnar-Java-Course" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week_09.listings_09.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestTv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_09.listings_09.TestTv" />
-      <module name="lnar-Java-Course" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week_09.listings_09.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Question_09_03" />
+        <item itemvalue="Application.Question_09_02" />
+        <item itemvalue="Application.Question_09_01" />
         <item itemvalue="Application.TestPoint2DClass" />
         <item itemvalue="Application.TestRandomClass" />
-        <item itemvalue="Application.TestDateClass" />
-        <item itemvalue="Application.TestStudent" />
-        <item itemvalue="Application.TestTv" />
       </list>
     </recent_temporary>
   </component>
