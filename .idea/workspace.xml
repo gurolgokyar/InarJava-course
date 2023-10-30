@@ -5,7 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="761940c0-f22b-4f4b-8302-7893965d6f14" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/week_09/Questions_09/exercise_09_04/Question_09_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_09/Questions_09/exercise_09_06/Question_09_06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_09/Questions_09/exercise_09_06/StopWatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_09/Questions_09/exercise_09_07/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_09/Questions_09/exercise_09_07/Question_09_07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_09/Questions_09/exercise_09_08/Fan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_09/Questions_09/exercise_09_08/Question_09_08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_09/Questions_09/exercise_09_09/Question_09_09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_09/Questions_09/exercise_09_09/RegularPolygon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_09/Questions_09/exercise_09_10/QuadraticEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_09/Questions_09/exercise_09_10/Question_09_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_09/Questions_09/exercise_09_11/LinerEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_09/Questions_09/exercise_09_11/Question_09_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_09/Questions_09/exercise_09_12/IntersectingPoint.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,13 +65,13 @@
       <recent name="C:\Users\user\Desktop\WorkSpace\InarAcademy_Java_course\src\week_09\classes" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Question_09_04">
-    <configuration name="Question_09_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_09.Questions_09.exercise_09_01.Question_09_01" />
+  <component name="RunManager" selected="Application.Question_09_11">
+    <configuration name="Question_09_07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_09.Questions_09.exercise_09_07.Question_09_07" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week_09.Questions_09.exercise_09_01.*" />
+          <option name="PATTERN" value="week_09.Questions_09.exercise_09_07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question_09_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_09.Questions_09.exercise_09_02.Question_09_02" />
+    <configuration name="Question_09_08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_09.Questions_09.exercise_09_08.Question_09_08" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week_09.Questions_09.exercise_09_02.*" />
+          <option name="PATTERN" value="week_09.Questions_09.exercise_09_08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question_09_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_09.Questions_09.exercise_09_03.Question_09_03" />
+    <configuration name="Question_09_09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_09.Questions_09.exercise_09_09.Question_09_09" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week_09.Questions_09.exercise_09_03.*" />
+          <option name="PATTERN" value="week_09.Questions_09.exercise_09_09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question_09_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_09.Questions_09.exercise_09_04.Question_09_04" />
+    <configuration name="Question_09_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_09.Questions_09.exercise_09_10.Question_09_10" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week_09.Questions_09.exercise_09_04.*" />
+          <option name="PATTERN" value="week_09.Questions_09.exercise_09_10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestPoint2DClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_09.listings_09.TestPoint2DClass" />
+    <configuration name="Question_09_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_09.Questions_09.exercise_09_11.Question_09_11" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week_09.listings_09.*" />
+          <option name="PATTERN" value="week_09.Questions_09.exercise_09_11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Question_09_04" />
-        <item itemvalue="Application.Question_09_03" />
-        <item itemvalue="Application.Question_09_02" />
-        <item itemvalue="Application.Question_09_01" />
-        <item itemvalue="Application.TestPoint2DClass" />
+        <item itemvalue="Application.Question_09_11" />
+        <item itemvalue="Application.Question_09_10" />
+        <item itemvalue="Application.Question_09_09" />
+        <item itemvalue="Application.Question_09_08" />
+        <item itemvalue="Application.Question_09_07" />
       </list>
     </recent_temporary>
   </component>
