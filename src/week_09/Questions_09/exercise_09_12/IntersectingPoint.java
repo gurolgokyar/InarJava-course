@@ -24,14 +24,19 @@ public class IntersectingPoint {
         this.x4 = points[6];
         this.y4 = points[7];
     }
-
+//    double a = points[0][1] - points[1][1];
+//    double b = points[0][0] - points[1][0];
+//    double c = points[2][1] - points[3][1];
+//    double d = points[2][0] - points[3][0];
+//    double e = a*points[0][0] - b*points[0][1];
+//    double f = c*points[2][0] - d*points[2][1];
     public double[] getCoefficient() {
-        double a = y1 - y2;
-        double b = x1 - x2;
-        double c = y3 - y4;
-        double d = x3 - x4;
-        double e = a * x1 - b * y1;
-        double f = c * x3 - d * y3;
+        double a =this.y1 - this.y2;
+        double b = this.x1 - this.x2;
+        double c = this.y3 - this.y4;
+        double d = this.x3 - this.x4;
+        double e = a * this.x1 - b * this.y1;
+        double f = c * this.x3 - d * this.y3;
         return new double[]{a, b, c, d, e, f};
     }
 
