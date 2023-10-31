@@ -25,6 +25,16 @@ public class IntersectingPoint {
         this.y4 = points[7];
     }
 
+    public double[] getCoefficient() {
+        double a = y1 - y2;
+        double b = x1 - x2;
+        double c = y3 - y4;
+        double d = x3 - x4;
+        double e = a * x1 - b * y1;
+        double f = c * x3 - d * y3;
+        return new double[]{a, b, c, d, e, f};
+    }
+
     public double getX1() {
         return x1;
     }
@@ -57,19 +67,10 @@ public class IntersectingPoint {
         return y4;
     }
 
-    public double[] getCoefficient() {
-        double a = y1 - y2;
-        double b = x1 - x2;
-        double c = y3 - y4;
-        double d = x3 - x4;
-        double e = a * x1 - b * y1;
-        double f = c * x3 - d * y3;
-        return new double[]{a, b, c, d, e, f};
-    }
 
     public String toString() {
         String s;
-        if (linerEquation.isSolvable()) {
+        if ((y1 - y2) *( x3 - x4) - (x1 - x2) * (y3 - y4) != 0) {
             s = "The intersecting point is at (" + linerEquation.getX() + ", " + linerEquation.getY() + ")";
         } else {
             s = "The two lines are parallel";
