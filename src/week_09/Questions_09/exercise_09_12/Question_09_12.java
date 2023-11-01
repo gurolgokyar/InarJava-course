@@ -1,12 +1,15 @@
 package week_09.Questions_09.exercise_09_12;
 
+import week_09.Questions_09.exercise_09_11.LinerEquation;
+
 import java.util.Scanner;
 
 public class Question_09_12 {
     public static void main(String[] args) {
         double[]points = getPoints();
         IntersectingPoint intersectingPoint = new IntersectingPoint(points);
-        System.out.println(intersectingPoint.toString());
+        LinerEquation linerEquation = new LinerEquation(intersectingPoint.getCoefficient());
+        System.out.println(linerEquation.toString());
     }
     public static double[] getPoints(){
         Scanner input = new Scanner(System.in);
