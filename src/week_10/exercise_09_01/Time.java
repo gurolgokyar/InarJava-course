@@ -25,7 +25,7 @@ public class Time {
         return (int)(getTotalHour(milliseconds) % 24);
     }
     public long getTotalHour(long milliseconds){
-        return getTotalMinutes(milliseconds) / 60;
+        return getTotalMinutes(milliseconds) / 60 + 3;
     }
 
     public long getTotalMinutes(long milliseconds) {
@@ -42,5 +42,25 @@ public class Time {
 
     public int getSecond(long milliseconds) {
         return (int) (getTotalSeconds(milliseconds) % 60);
+    }
+
+    public int getHour() {
+        return hour;
+    }
+
+    public int getMinute() {
+        return minute;
+    }
+
+    public int getSecond() {
+        return second;
+    }
+    public void setTime(long milliseconds){
+        this.hour = getHour(milliseconds);
+        this.minute = getMinute(milliseconds);
+        this.second = getSecond(milliseconds);
+    }
+    public String toString(){
+        return getHour() + ":" + getMinute() + ":" + getSecond() + (getHour() >= 12 ? " PM" : " AM");
     }
 }
