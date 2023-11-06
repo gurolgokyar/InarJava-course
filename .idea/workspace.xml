@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="761940c0-f22b-4f4b-8302-7893965d6f14" name="Changes" comment="" />
+    <list default="true" id="761940c0-f22b-4f4b-8302-7893965d6f14" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/week_10/workiningArea/Integer/BigIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_10/workiningArea/Integer/TestIntegerClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,13 +55,13 @@
       <recent name="C:\Users\user\Desktop\WorkSpace\InarAcademy_Java_course\src\week_09\classes" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestStackOfIntegers">
-    <configuration name="Question_10_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_10.exercise_09_01.Question_10_01" />
+  <component name="RunManager" selected="Application.BigIntegers">
+    <configuration name="BigIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_10.workiningArea.Integer.BigIntegers" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week_10.exercise_09_01.*" />
+          <option name="PATTERN" value="week_10.workiningArea.Integer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestLoanClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_10.workiningArea.TestLoanClass" />
+    <configuration name="TestIntegerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_10.workiningArea.Integer.TestIntegerClass" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week_10.workiningArea.*" />
+          <option name="PATTERN" value="week_10.workiningArea.Integer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BigIntegers" />
+        <item itemvalue="Application.TestIntegerClass" />
         <item itemvalue="Application.TestStackOfIntegers" />
         <item itemvalue="Application.TestCourse" />
         <item itemvalue="Application.TestBmi" />
-        <item itemvalue="Application.TestLoanClass" />
-        <item itemvalue="Application.Question_10_01" />
       </list>
     </recent_temporary>
   </component>
