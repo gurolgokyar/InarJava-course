@@ -5,6 +5,7 @@ public class TestIntegerClass {
         System.out.println(Integer.MAX_VALUE);
         System.out.println(Integer.MIN_VALUE);
         System.out.println(Double.MAX_VALUE);
+        System.out.println(Double.MIN_VALUE);
 
         System.out.println("------------------------");
         Integer i1 = Integer.valueOf("2");
