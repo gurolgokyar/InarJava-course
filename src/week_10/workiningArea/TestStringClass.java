@@ -1,4 +1,4 @@
-package week_10.workiningArea.loan;
+package week_10.workiningArea;
 
 public class TestStringClass {
     public static void main(String[] args) {
@@ -51,5 +51,14 @@ public class TestStringClass {
         for (String s : array2) {
             System.out.println(s);
         }
+
+        System.out.println("--------------------------------");
+        char[] ch = s1.toCharArray();
+        System.out.println(ch[5]);
+
+        System.out.println("\n------------------------------------");
+        boolean b = true;
+        String s = String.valueOf(b);
+        System.out.println(s);
     }
 }
