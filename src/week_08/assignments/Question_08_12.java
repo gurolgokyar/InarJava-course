@@ -16,12 +16,7 @@ public class Question_08_12 {
         System.out.println("Enter the taxable income: ");
         double income = input.nextDouble();
 
-        double tax = calculateTheTax(income, status);
-        System.out.println("Tax is $" + tax);
-    }
-
-    public static double calculateTheTax(double income, int status) {
-        int[][] brackets = {
+        double[][] brackets = {
                 {8350, 33950, 82250, 171550, 372950},
                 {16700, 67900, 137050, 20885, 372950},
                 {8350, 33950, 68525, 104425, 186475},
@@ -29,6 +24,11 @@ public class Question_08_12 {
         };
         double[] rates = {0.10, 0.15, 0.25, 0.28, 0, 33, 0.35};
 
+        double tax = calculateTheTax(income, status, brackets, rates);
+        System.out.println("Tax is $" + tax);
+    }
+
+    public static double calculateTheTax(double income, int status, double[][] brackets, double[] rates) {
         double tax = 0;
         tax += (income > brackets[status][0] ? brackets[status][0] * rates[0] : income * rates[0]);
 
