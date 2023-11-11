@@ -85,15 +85,51 @@ public class MyRectangle2D {
     }
 
     public boolean overlaps(MyRectangle2D m){
-        double[][] pointsOfRectangle = getPointsOfRectangle(m);
-
-        int numberOfPointsInRectangle = 0;
-        for (int i = 0; i < 4; i++) {
-            if (contains(pointsOfRectangle[i][0], pointsOfRectangle[i][1])){
-                numberOfPointsInRectangle++;
+        double[][] boarderPoints = getPointsOfRectangle(m);
+        int numberOfPointsInOtherRectangle = 0;
+        for (int i = 0; i < boarderPoints.length; i++) {
+            if (contains(boarderPoints[i][0], boarderPoints[i][1])){
+                numberOfPointsInOtherRectangle++;
             }
         }
-
-        return numberOfPointsInRectangle >= 1 && numberOfPointsInRectangle < 4;
+        return numberOfPointsInOtherRectangle >= 1 && numberOfPointsInOtherRectangle < 4;
     }
+
+    public static MyRectangle2D
+    getRectangle(double[][] points) {
+        MyRectangle2D myRectangle2D = new MyRectangle2D();
+
+        double[] boarderPoints = myRectangle2D.getBoarderPoints(points);
+
+        myRectangle2D.height = boarderPoints[1] - boarderPoints[0];
+        myRectangle2D.width = boarderPoints[2] - boarderPoints[3];
+        myRectangle2D.x = boarderPoints[3] + myRectangle2D.width / 2;
+        myRectangle2D.y = boarderPoints[0] + myRectangle2D.height / 2;
+        return myRectangle2D;
+    }
+
+    public double[] getBoarderPoints(double[][] points) {
+        //Firstly find the lowest, upper, rightest and leftest point
+        double lowest = points[0][1];
+        double upper = points[0][1];
+        double rightest = points[0][0];
+        double leftest = points[0][0];
+
+        for (int i = 0; i < points.length; i++) {
+            if (points[i][1] < lowest) {
+                lowest = points[i][1];
+            }
+            if (points[i][1] > upper) {
+                upper = points[i][1];
+            }
+            if (points[i][0] > rightest) {
+                rightest = points[i][0];
+            }
+            if (points[i][0] < leftest) {
+                lowest = points[i][0];
+            }
+        }
+        return new double[]{lowest, upper, rightest, leftest};
+    }
+
 }
