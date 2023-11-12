@@ -1,14 +1,23 @@
 package week_10.workiningArea;
 
+import java.math.BigInteger;
+
 public class www {
     public static void main(String[] args) {
-        for (int i = 2; i < 8388607; i++) {
-            if (8388607 % i == 0){
-                System.out.println(false);
-                System.out.println(i);
-                break;
+
+        BigInteger n = new BigInteger(String.valueOf(Long.MAX_VALUE));
+        BigInteger divisor5 = new BigInteger("5");
+        BigInteger divisor6 = new BigInteger("6");
+        BigInteger zero = new BigInteger("0");
+
+        int count = 0;
+        System.out.println("First ten numbers greater than Long.MAX_VALUE that are divisible by 5 or 6:");
+        while (count < 10) {
+            n = n.add(BigInteger.ONE);
+            if (zero.compareTo(n.remainder(divisor5)) == 0 || zero.compareTo(n.remainder(divisor6)) == 0) {
+                System.out.println(n);
+                count++;
             }
         }
-        System.out.println(8388607%47);
     }
 }
