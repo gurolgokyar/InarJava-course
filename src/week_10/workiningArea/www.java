@@ -19,5 +19,8 @@ public class www {
                 count++;
             }
         }
+        String s = "db";
+        String s2 = "abk";
+        System.out.println(s.compareTo(s2));
     }
 }
