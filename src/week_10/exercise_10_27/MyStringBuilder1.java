@@ -1,23 +1,20 @@
 package week_10.exercise_10_27;
 
-public class MyStringBuilder {
+public class MyStringBuilder1 {
     public String s;
 
-    public MyStringBuilder(String s) {
+    public MyStringBuilder1(String s) {
         this.s = s;
     }
 
-    public MyStringBuilder append(MyStringBuilder s) {
-        for (int i = 0; i < s.length(); i++) {
-            this.s += s.charAt(i);
-        }
-        return new MyStringBuilder(this.s);
-
+    public MyStringBuilder1 append(MyStringBuilder1 s) {
+       this.s += s.toString();
+       return this;
     }
 
-    public MyStringBuilder append(int i) {
+    public MyStringBuilder1 append(int i) {
         s += i;
-        return new MyStringBuilder(s);
+       return this;
     }
 
     public int length() {
@@ -28,18 +25,18 @@ public class MyStringBuilder {
         return s.charAt(index);
     }
 
-    public MyStringBuilder toLowerCase() {
+    public MyStringBuilder1 toLowerCase() {
         //We should use s = s.toLowerCase() because if we don't write like this s can not change
         s = s.toLowerCase();
-        return new MyStringBuilder(s.toLowerCase());
+        return new MyStringBuilder1(s.toLowerCase());
     }
 
-    public MyStringBuilder subString(int begin, int end) {
+    public MyStringBuilder1 substring(int begin, int end) {
         String s1 = "";
         for (int i = begin; i < end; i++) {
             s1 += s.charAt(i);
         }
-        return new MyStringBuilder(s1);
+        return new MyStringBuilder1(s1);
     }
 
     public String toString() {
