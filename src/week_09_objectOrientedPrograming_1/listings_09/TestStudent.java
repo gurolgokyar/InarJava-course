@@ -1,0 +1,12 @@
+package week_09_objectOrientedPrograming_1.listings_09;
+
+public class TestStudent {
+    public static void main(String[] args) {
+        Student student = new Student();
+        System.out.println("name? " + student.name);
+        System.out.println("age? " + student.age);
+        System.out.println("isScienceMajor? " + student.isScienceMajor);
+        System.out.println("gender? " + student.gender);
+    }
+}
+
