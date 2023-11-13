@@ -1,6 +1,6 @@
 package week_10.exercise_10_07;
 
-import week_09.Questions_09.exercise_09_07.Account;
+import week_09.assignments.exercise_09_07.Account;
 
 import java.util.Scanner;
 
