@@ -23,6 +23,9 @@ public class Circle {
     }
 
     public String toString() {
-        return "The area of the circle is " + this.getArea() + " and the perimeter of the circle is " + this.getPerimeter();
+        //return "The area of the circle is " + this.getArea() + " and the perimeter of the circle is " + this
+        // .getPerimeter();
+
+        return "Radius: " + radius;
     }
 }

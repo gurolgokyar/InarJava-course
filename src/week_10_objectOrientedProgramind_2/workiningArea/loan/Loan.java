@@ -52,4 +52,7 @@ public class Loan {
         return getMonthlyPayment() * numberOfYears * 12;
     }
 
+    public String toString(){
+        return "Loan Date: " + loanDate;
+    }
 }

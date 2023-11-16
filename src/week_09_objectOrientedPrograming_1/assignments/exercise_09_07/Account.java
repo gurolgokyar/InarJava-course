@@ -44,11 +44,13 @@ public class Account {
     public double getMonthlyInterest(){
         return this.getMonthlyInterestRate()*this.balance;
     }
-    public void withdraw(double amount){
-        this.balance = this.balance - amount;
+
+    public void withdraw(double account) {
+        this.balance -= account;
     }
-    public void deposit(double amount){
-        this.balance = this.balance + amount;
+
+    public void deposit(double account) {
+       this.balance += account;
     }
     public String toString(){
         return  "Account ID      : " + this.id + "\n" +
