@@ -8,8 +8,9 @@ public class TestCircleWithException {
             CircleWithException circle3 = new CircleWithException(0);
         }catch(IllegalArgumentException ex){
             System.out.println(ex);
-            System.out.println("Number of circle object is " + CircleWithException.getNumberOfObject());
         }
+
+        System.out.println("Number of circle object is " + CircleWithException.getNumberOfObject());
 
     }
 }
