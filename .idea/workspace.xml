@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="761940c0-f22b-4f4b-8302-7893965d6f14" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/week_12_exceptionHandling/workingArea/TestFileClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_12_exceptionHandling/workingArea/WriteData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_12_exceptionHandling/workingArea/TestClassOfScanner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_12_exceptionHandling/workingArea/CircleWithCustomException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_12_exceptionHandling/workingArea/CircleWithCustomException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_12_exceptionHandling/workingArea/TestCircleWithCustomException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_12_exceptionHandling/workingArea/TestCircleWithCustomException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_12_exceptionHandling/workingArea/TestFileClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_12_exceptionHandling/workingArea/TestFileClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_12_exceptionHandling/workingArea/WriteData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_12_exceptionHandling/workingArea/WriteData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_12_exceptionHandling/workingArea/scores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_12_exceptionHandling/workingArea/scores.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,8 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCircleWithException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_12_exceptionHandling.workingArea.TestCircleWithException" />
+    <configuration name="TestClassOfScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_12_exceptionHandling.workingArea.TestClassOfScanner" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
@@ -129,10 +129,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.WriteData" />
+        <item itemvalue="Application.TestClassOfScanner" />
         <item itemvalue="Application.TestFileClass" />
         <item itemvalue="Application.TestCircleWithCustomException" />
         <item itemvalue="Application.ChainedExceptionDemo" />
-        <item itemvalue="Application.TestCircleWithException" />
       </list>
     </recent_temporary>
   </component>

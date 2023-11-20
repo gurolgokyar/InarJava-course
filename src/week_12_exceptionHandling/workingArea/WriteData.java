@@ -14,11 +14,11 @@ public class WriteData {
 //            System.exit(1);
 //        }
         PrintWriter output = new PrintWriter(file);
-        output.print("John T Smith ");
+        output.print("John              T Smith ");
         output.println("90");
-        output.print("Eric K jones ");
-        output.println("85");
-        output.print("Gurol m GOkyar");
+        output.print("Eric K      jones ");
+        output.println("   85    7    8 ");
+        output.print("Gurol m GOkyar ");
         output.println("100");
         output.close();
 
@@ -37,11 +37,12 @@ public class WriteData {
 
         System.out.println("---------------------------------------------");
         Scanner input1 = new Scanner(file);
-        input1.useDelimiter("[o i]");
+        //input1.useDelimiter("[o i]");
         while (input1.hasNext()){
-            System.out.println(input1.next());
+            System.out.print(input1.next());
         }
-        //System.out.println(input1.next());
+//        System.out.println(input1.next());
+//        System.out.println(input1.nextLine());
         System.out.println(file.delete());
         System.out.println(file.renameTo(new File("MyFile.txt")));
 

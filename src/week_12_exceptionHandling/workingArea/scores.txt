@@ -1,3 +1,3 @@
-John T Smith 90
-Eric K jones 85
-Gurol m GOkyar100
+John              T Smith 90
+Eric K      jones    85    7    8 
+Gurol m GOkyar 100
