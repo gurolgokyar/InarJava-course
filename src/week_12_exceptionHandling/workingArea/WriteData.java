@@ -18,7 +18,7 @@ public class WriteData {
         output.println("90");
         output.print("Eric K      jones ");
         output.println("   85    7    8 ");
-        output.print("Gurol m GOkyar ");
+        output.print("Gurol G Gokyar ");
         output.println("100");
         output.close();
 
