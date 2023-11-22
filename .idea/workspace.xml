@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="761940c0-f22b-4f4b-8302-7893965d6f14" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/week_12_exceptionHandling/workingArea/TestClassOfScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_12_exceptionHandling/assignments/excercise_12_07/Question_12_07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_12_exceptionHandling/assignments/excercise_12_08/HexFormatException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_12_exceptionHandling/assignments/excercise_12_08/Question_12_08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_12_exceptionHandling/assignments/excercise_12_09/BinaryFormatException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_12_exceptionHandling/assignments/excercise_12_09/Question_12_09.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_12_exceptionHandling/workingArea/TestFileClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_12_exceptionHandling/workingArea/TestFileClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_12_exceptionHandling/workingArea/WriteData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_12_exceptionHandling/workingArea/WriteData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_12_exceptionHandling/workingArea/scores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_12_exceptionHandling/workingArea/scores.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,13 +61,13 @@
       <recent name="C:\Users\user\Desktop\WorkSpace\InarAcademy_Java_course\src\week_09\classes" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WriteData">
-    <configuration name="ChainedExceptionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_12_exceptionHandling.workingArea.ChainedExceptionDemo" />
+  <component name="RunManager" selected="Application.Question_12_09">
+    <configuration name="Question_12_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_12_exceptionHandling.assignments.excercise_12_05.Question_12_05" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week_12_exceptionHandling.workingArea.*" />
+          <option name="PATTERN" value="week_12_exceptionHandling.assignments.excercise_12_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCircleWithCustomException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_12_exceptionHandling.workingArea.TestCircleWithCustomException" />
+    <configuration name="Question_12_06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_12_exceptionHandling.assignments.excercise_12_06.Question_12_06" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week_12_exceptionHandling.workingArea.*" />
+          <option name="PATTERN" value="week_12_exceptionHandling.assignments.excercise_12_06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestClassOfScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_12_exceptionHandling.workingArea.TestClassOfScanner" />
+    <configuration name="Question_12_07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_12_exceptionHandling.assignments.excercise_12_07.Question_12_07" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week_12_exceptionHandling.workingArea.*" />
+          <option name="PATTERN" value="week_12_exceptionHandling.assignments.excercise_12_07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestFileClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_12_exceptionHandling.workingArea.TestFileClass" />
+    <configuration name="Question_12_08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_12_exceptionHandling.assignments.excercise_12_08.Question_12_08" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week_12_exceptionHandling.workingArea.*" />
+          <option name="PATTERN" value="week_12_exceptionHandling.assignments.excercise_12_08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WriteData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_12_exceptionHandling.workingArea.WriteData" />
+    <configuration name="Question_12_09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_12_exceptionHandling.assignments.excercise_12_09.Question_12_09" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week_12_exceptionHandling.workingArea.*" />
+          <option name="PATTERN" value="week_12_exceptionHandling.assignments.excercise_12_09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WriteData" />
-        <item itemvalue="Application.TestClassOfScanner" />
-        <item itemvalue="Application.TestFileClass" />
-        <item itemvalue="Application.TestCircleWithCustomException" />
-        <item itemvalue="Application.ChainedExceptionDemo" />
+        <item itemvalue="Application.Question_12_09" />
+        <item itemvalue="Application.Question_12_08" />
+        <item itemvalue="Application.Question_12_07" />
+        <item itemvalue="Application.Question_12_06" />
+        <item itemvalue="Application.Question_12_05" />
       </list>
     </recent_temporary>
   </component>
