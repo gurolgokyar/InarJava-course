@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="761940c0-f22b-4f4b-8302-7893965d6f14" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/week_12_exceptionHandling/assignments/excercise_12_07/Question_12_07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_12_exceptionHandling/assignments/excercise_12_08/HexFormatException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_12_exceptionHandling/assignments/excercise_12_08/Question_12_08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_12_exceptionHandling/assignments/excercise_12_09/BinaryFormatException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_12_exceptionHandling/assignments/excercise_12_09/Question_12_09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_12_exceptionHandling/assignments/exercise_12_17/Question_12_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_12_exceptionHandling/assignments/exercise_12_17/hangman.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_12_exceptionHandling/assignments/exercise_12_19/Question_12_19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_12_exceptionHandling/assignments/exercise_12_21/Question_12_21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_12_exceptionHandling/assignments/exercise_12_21/SortedStrings.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,20 +54,20 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\OneDrive\Masaüstü\WorkSpace\InarAcademy_Java_course\src\week_12_exceptionHandling\assignments\excercise_12_12" />
       <recent name="C:\Users\user\Desktop\WorkSpace\InarAcademy_Java_course\src\week_11_objectOrientedPrograming_3\assignments\exercise_11_01" />
       <recent name="C:\Users\user\Desktop\WorkSpace\InarAcademy_Java_course\src\week_10\exercise_10_18" />
       <recent name="C:\Users\user\Desktop\WorkSpace\InarAcademy_Java_course\src\week_10\workiningArea" />
       <recent name="C:\Users\user\Desktop\WorkSpace\InarAcademy_Java_course\src\week_10\workiningArea\loan" />
-      <recent name="C:\Users\user\Desktop\WorkSpace\InarAcademy_Java_course\src\week_09\classes" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Question_12_09">
-    <configuration name="Question_12_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_12_exceptionHandling.assignments.excercise_12_05.Question_12_05" />
+  <component name="RunManager" selected="Application.Question_12_21">
+    <configuration name="Question_12_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_12_exceptionHandling.assignments.exercise_12_15.Question_12_15" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week_12_exceptionHandling.assignments.excercise_12_05.*" />
+          <option name="PATTERN" value="week_12_exceptionHandling.assignments.exercise_12_15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question_12_06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_12_exceptionHandling.assignments.excercise_12_06.Question_12_06" />
+    <configuration name="Question_12_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_12_exceptionHandling.assignments.exercise_12_16.Question_12_16" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week_12_exceptionHandling.assignments.excercise_12_06.*" />
+          <option name="PATTERN" value="week_12_exceptionHandling.assignments.exercise_12_16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question_12_07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_12_exceptionHandling.assignments.excercise_12_07.Question_12_07" />
+    <configuration name="Question_12_17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_12_exceptionHandling.assignments.exercise_12_17.Question_12_17" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week_12_exceptionHandling.assignments.excercise_12_07.*" />
+          <option name="PATTERN" value="week_12_exceptionHandling.assignments.exercise_12_17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question_12_08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_12_exceptionHandling.assignments.excercise_12_08.Question_12_08" />
+    <configuration name="Question_12_19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_12_exceptionHandling.assignments.exercise_12_19.Question_12_19" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week_12_exceptionHandling.assignments.excercise_12_08.*" />
+          <option name="PATTERN" value="week_12_exceptionHandling.assignments.exercise_12_19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question_12_09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_12_exceptionHandling.assignments.excercise_12_09.Question_12_09" />
+    <configuration name="Question_12_21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_12_exceptionHandling.assignments.exercise_12_21.Question_12_21" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week_12_exceptionHandling.assignments.excercise_12_09.*" />
+          <option name="PATTERN" value="week_12_exceptionHandling.assignments.exercise_12_21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Question_12_09" />
-        <item itemvalue="Application.Question_12_08" />
-        <item itemvalue="Application.Question_12_07" />
-        <item itemvalue="Application.Question_12_06" />
-        <item itemvalue="Application.Question_12_05" />
+        <item itemvalue="Application.Question_12_21" />
+        <item itemvalue="Application.Question_12_19" />
+        <item itemvalue="Application.Question_12_17" />
+        <item itemvalue="Application.Question_12_16" />
+        <item itemvalue="Application.Question_12_15" />
       </list>
     </recent_temporary>
   </component>
@@ -286,6 +286,21 @@
           <url>file://$PROJECT_DIR$/src/week_12_exceptionHandling/workingArea/TestException.java</url>
           <line>32</line>
           <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/week_12_exceptionHandling/assignments/excercise_12_09/Question_12_09.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/week_12_exceptionHandling/assignments/excercise_12_12/Question_12_12B.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/week_12_exceptionHandling/assignments/exercise_12_15/Question_12_15.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="76" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/week_02_elementaryPrograming/Question_02_09.java</url>
