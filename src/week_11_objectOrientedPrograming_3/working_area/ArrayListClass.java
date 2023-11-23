@@ -2,7 +2,7 @@ package week_11_objectOrientedPrograming_3.working_area;
 
 import java.util.ArrayList;
 
-public class ArrayListClass {
+public class ArrayListClass  {
     public static void main(String[] args) {
         ArrayList<String> cities = new ArrayList<>();
         cities.add("Istanbul");
