@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class Question_12_16 {
     public static void main(String[] args) throws IOException {
         if (args.length != 3){
-            System.out.println("Usage: java ReplaceText sourceFile targetFile oldStr" +
+            System.out.println("Usage: java ReplaceText sourceFile oldStr" +
            " newStr ");
             System.exit(1);
         }
@@ -18,8 +18,8 @@ public class Question_12_16 {
             System.exit(2);
         }
         Scanner input = new Scanner(file);
-        File file2 = new File("modifiedFile.txt");
-        PrintWriter output = new PrintWriter(file2);
+        File file1 = new File("modifiedFile.txt");
+        PrintWriter output = new PrintWriter(file1);
 
         while(input.hasNext()){
             String str = input.nextLine();
@@ -28,6 +28,18 @@ public class Question_12_16 {
         }
         output.close();
         input.close();
-        file2.renameTo(file);
+
+        Scanner input2 = new Scanner(file1);
+        PrintWriter output2 = new PrintWriter(file);
+        changeInContents(input2, output2);
+        file1.delete();
+    }
+
+    public static void changeInContents(Scanner input, PrintWriter output) {
+        while (input.hasNext()) {
+            output.println(input.nextLine());
+        }
+        output.close();
+        input.close();
     }
 }
