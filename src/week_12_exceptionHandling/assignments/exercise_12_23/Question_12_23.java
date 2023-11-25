@@ -16,10 +16,8 @@ public class Question_12_23 {
                 String rangInString = getRank(rank);
                 double salary = getSalary(rank);
                 output.printf("%s%d %s%d %s %1.2f\n", "FirstName", i, "LastName", i, rangInString, salary);
-                System.out.printf("%s%d %s%d %s %1.2f\n", "FirstName", i, "LastName", i, rangInString, salary);
             }
         }
-
     }
 
     public static String getRank(int rank) {

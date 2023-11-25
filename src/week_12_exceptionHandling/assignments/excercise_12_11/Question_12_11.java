@@ -25,6 +25,17 @@ public class Question_12_11 {
                 output.println(str2);
             }
         }
+        File modifiedFile = new File(args[1] + "_02");
+        try (
+                Scanner input = new Scanner(modifiedFile);
+                PrintWriter output = new PrintWriter(file);
+        ) {
+            while (input.hasNext()) {
+                output.println(input.nextLine());
+            }
+        }
+        modifiedFile.delete();
+
 
     }
 }
