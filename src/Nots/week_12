@@ -1,1 +1,8 @@
 MalformedURLException --> is triggered when there is a syntax error in URL string
+
+
+Scanner input = new Scanner(url.openStream());
+10 while (input.hasNext()) {
+11 String line = input.nextLine();
+12 count += line.length();
+13 }
