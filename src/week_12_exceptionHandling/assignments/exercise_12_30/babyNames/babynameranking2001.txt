@@ -1,4 +1,4 @@
-1	Jacob	32,570  Emily	25,059
+1   Jacob 32,570 Emily 25,059
 2	Michael	29,688	Madison	22,166
 3	Matthew	26,813	Hannah	20,720
 4	Joshua	26,023	Ashley	16,531
