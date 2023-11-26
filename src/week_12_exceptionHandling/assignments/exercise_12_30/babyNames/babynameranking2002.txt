@@ -1,8 +1,3 @@
-
-Popularity in 2002
-Rank	Male name	Number of
-males	Female name	Number of
-females
 1	Jacob	30,583	Emily	24,468
 2	Michael	28,256	Madison	21,773
 3	Joshua	25,997	Hannah	18,827

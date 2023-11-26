@@ -6,10 +6,7 @@ import java.util.Scanner;
 
 public class Question_12_30 {
     public static void main(String[] args) throws IOException {
-//        for (int i = 2001; i <= 2010; i++) {
-//            PrintWriter file = new PrintWriter("src/week_12_exceptionHandling/assignments/exercise_12_30/babyNames/" +
-//                    "babynameranking" + i + ".txt");
-//        }
+
         Scanner input = new Scanner(System.in);
         System.out.print("Enter the year: ");
         int year = input.nextInt();
@@ -26,16 +23,24 @@ public class Question_12_30 {
         try (
                 Scanner input1 = new Scanner(file);
         ) {
+
             int rank = 1;
+            boolean isFound = false;
             while (input1.hasNext()){
                 String str = input1.nextLine();
-                String[] line = str.split(" ");
+                String[] line = str.split("[ \t]");
+
                 int nameInLine = (gender == 'M' ? 1 : 3);
                 if (line[nameInLine].compareTo(name) == 0){
                     System.out.println(name + " is ranked #" + rank + " in year " + year);
+                    isFound = true;
                     break;
                 }
                 rank++;
+            }
+
+            if (!isFound){
+                System.out.println("The name you entered is not in the list.");
             }
         }
     }
