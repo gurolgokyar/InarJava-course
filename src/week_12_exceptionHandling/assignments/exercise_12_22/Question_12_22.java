@@ -28,14 +28,16 @@ public class Question_12_22 {
         String modifiedStr;
         for (int i = 0; i < files.length; i++) {
             try (
-                    Scanner input =new Scanner(files[i]) ;
-                    PrintWriter output = new PrintWriter(fileModified);
-            ){
-                str = input.nextLine();
-                modifiedStr = str.replaceAll(args[1], args[2]);
-                output.println(modifiedStr);
-                changeContents(files[i], fileModified);
+                Scanner input = new Scanner(files[i]);
+                PrintWriter output = new PrintWriter(fileModified);
+            ) {
+                while (input.hasNext()) {
+                    str = input.nextLine();
+                    modifiedStr = str.replaceAll(args[1], args[2]);
+                    output.println(modifiedStr);
+                }
             }
+                changeContents(files[i], fileModified);
         }
         fileModified.delete();
     }
