@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="761940c0-f22b-4f4b-8302-7893965d6f14" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/week_12_exceptionHandling/assignments/exercise_12_22/excersise_12_22A/test.txt2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_12_exceptionHandling/workingArea/Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_13/workingArea/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_13/workingArea/Rectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_12_exceptionHandling/assignments/exercise_12_22/Question_12_22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_12_exceptionHandling/assignments/exercise_12_22/Question_12_22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_12_exceptionHandling/assignments/exercise_12_22/excersise_12_22A/text1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_12_exceptionHandling/assignments/exercise_12_22/excersise_12_22A/text1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_13/workingArea/GeometricObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_13/workingArea/GeometricObject.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
