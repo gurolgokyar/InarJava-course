@@ -2,9 +2,13 @@ package week_12_exceptionHandling.assignments.exercise_12_26;
 
 import java.io.File;
 import java.io.IOException;
+import java.io.PrintWriter;
 
 public class Question_12_26 {
     public static void main(String[] args) throws IOException {
+//        File directory = new File("src/week_12_exceptionHandling/assignments/exercise_12_26/directory");
+//        directory.mkdir();
+//       // This section for generate files under the directory
 //        for (int i = 1; i <= 20; i++) {
 //            for (int j = 1; j <=  5; j++) {
 //                File file =
