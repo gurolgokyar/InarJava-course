@@ -40,4 +40,14 @@ public abstract class GeometricObject {
    }
    public abstract double getArea();
    public  abstract double getPerimeter();
+
+
+   public static GeometricObject max(GeometricObject o1, GeometricObject o2) {
+      if (o2.getArea() > o1.getArea()) {
+         return o2;
+      } else {
+         return o1;
+      }
+   }
+
 }

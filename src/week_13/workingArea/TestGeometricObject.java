@@ -3,7 +3,7 @@ package week_13.workingArea;
 public class TestGeometricObject {
     public static void main(String[] args) {
         GeometricObject geometricObject1 = new Circle(5);
-        GeometricObject geometricObject2 = new Rectangle(5,3);
+        GeometricObject geometricObject2 = new Rectangle(5, 3);
 
         System.out.println("The two objects have the same area? "+ equalArea(geometricObject1, geometricObject2));
         displayGeometricObject(geometricObject1);

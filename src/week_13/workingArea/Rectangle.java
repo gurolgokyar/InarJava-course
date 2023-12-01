@@ -42,4 +42,15 @@ public class Rectangle extends GeometricObject {
     public double getPerimeter() {
         return 2 * (width + height);
     }
+    public int compareTo(GeometricObject o){
+        if (getArea() > o.getArea()){
+            return 1;
+        } else if (getArea() == o.getArea()) {
+            return 0;
+        }else {
+            return 1;
+        }
+    }
+
+
 }
