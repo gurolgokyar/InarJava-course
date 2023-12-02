@@ -5,30 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="761940c0-f22b-4f4b-8302-7893965d6f14" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/week_13/assignments/Question_13_01/Question_13_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_13/assignments/Question_13_01/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_13/assignments/Question_13_02/Question_13_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_13/assignments/Question_13_03/Question_13_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_13/assignments/Question_13_04/Question_13_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_13/assignments/Question_13_05/Question_13_05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_13/assignments/Question_13_06/ComparableCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_13/assignments/Question_13_06/Question_13_06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_13/assignments/Question_13_07/Colorable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_13/assignments/Question_13_07/Question_13_07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_13/assignments/Question_13_07/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_13/assignments/Question_13_08/MyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_13/assignments/Question_13_08/Question_13_08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_13/assignments/Question_13_09/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_13/assignments/Question_13_09/Question_13_09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_13/assignments/Question_13_10/Question_13_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_13/assignments/Question_13_10/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_13/assignments/Question_13_11/Octagon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_13/assignments/Question_13_11/Question_13_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_13/assignments/Question_13_12/Question_13_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_13/assignments/Question_13_13/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_13/assignments/Question_13_13/Question_13_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_13/assignments/Question_13_14/Question_13_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_13/assignments/Question_13_14/Rational.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_13/assignments/Question_13_01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_13/assignments/Question_13_02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_13/assignments/Question_13_03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_13/assignments/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_13/assignments/Question_13_09/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_13/assignments/Question_13_09/Circle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/week_13/workingArea/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_13/workingArea/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_13/workingArea/GeometricObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_13/workingArea/GeometricObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_13/workingArea/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_13/workingArea/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_13/workingArea/TestGeometricObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_13/workingArea/TestGeometricObject.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,33 +49,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/user/OneDrive/Masaüstü/WorkSpace/InarAcademy_Java_course",
-    "onboarding.tips.debug.path": "C:/Users/user/Desktop/WorkSpace/lnar-Java-Course/src/Main.java",
-    "settings.editor.selected.configurable": "inlay.hints"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/OneDrive/Masaüstü/WorkSpace/InarAcademy_Java_course&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/user/Desktop/WorkSpace/lnar-Java-Course/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\OneDrive\Masaüstü\WorkSpace\InarAcademy_Java_course\src\week_13\workingArea" />
+      <recent name="C:\Users\user\OneDrive\Masaüstü\WorkSpace\InarAcademy_Java_course\src\week_13\assignments\Question_13_10" />
+      <recent name="C:\Users\user\OneDrive\Masaüstü\WorkSpace\InarAcademy_Java_course\src\week_13\assignments" />
       <recent name="C:\Users\user\OneDrive\Masaüstü\WorkSpace\InarAcademy_Java_course\src\week_13\assignments\Question_13_08" />
       <recent name="C:\Users\user\OneDrive\Masaüstü\WorkSpace\InarAcademy_Java_course\src\week_13\assignments\Question_13_09" />
-      <recent name="C:\Users\user\OneDrive\Masaüstü\WorkSpace\InarAcademy_Java_course\src\week_13\assignments\Question_13_05" />
-      <recent name="C:\Users\user\OneDrive\Masaüstü\WorkSpace\InarAcademy_Java_course\src\week_13\assignments\Question_13_04" />
-      <recent name="C:\Users\user\OneDrive\Masaüstü\WorkSpace\InarAcademy_Java_course\src\week_13\assignments\Question_13_03" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Question_13_09">
-    <configuration name="Question_13_06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_13.assignments.Question_13_06.Question_13_06" />
+  <component name="RunManager" selected="Application.Question_13_14">
+    <configuration name="Question_13_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_13.assignments.Question_13_10.Question_13_10" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week_13.assignments.Question_13_06.*" />
+          <option name="PATTERN" value="week_13.assignments.Question_13_10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question_13_07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_13.assignments.Question_13_07.Question_13_07" />
+    <configuration name="Question_13_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_13.assignments.Question_13_11.Question_13_11" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week_13.assignments.Question_13_07.*" />
+          <option name="PATTERN" value="week_13.assignments.Question_13_11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question_13_08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_13.assignments.Question_13_08.Question_13_08" />
+    <configuration name="Question_13_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_13.assignments.Question_13_12.Question_13_12" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week_13.assignments.Question_13_08.*" />
+          <option name="PATTERN" value="week_13.assignments.Question_13_12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question_13_09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_13.assignments.Question_13_09.Question_13_09" />
+    <configuration name="Question_13_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_13.assignments.Question_13_13.Question_13_13" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week_13.assignments.Question_13_09.*" />
+          <option name="PATTERN" value="week_13.assignments.Question_13_13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestGeometricObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_13.workingArea.TestGeometricObject" />
+    <configuration name="Question_13_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_13.assignments.Question_13_14.Question_13_14" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week_13.workingArea.*" />
+          <option name="PATTERN" value="week_13.assignments.Question_13_14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Question_13_09" />
-        <item itemvalue="Application.TestGeometricObject" />
-        <item itemvalue="Application.Question_13_08" />
-        <item itemvalue="Application.Question_13_07" />
-        <item itemvalue="Application.Question_13_06" />
+        <item itemvalue="Application.Question_13_14" />
+        <item itemvalue="Application.Question_13_13" />
+        <item itemvalue="Application.Question_13_12" />
+        <item itemvalue="Application.Question_13_11" />
+        <item itemvalue="Application.Question_13_10" />
       </list>
     </recent_temporary>
   </component>
@@ -326,6 +314,11 @@
           <url>file://$PROJECT_DIR$/src/week_12_exceptionHandling/assignments/exercise_12_32/Question_12_32.java</url>
           <line>24</line>
           <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/week_13/assignments/Question_13_13/Question_13_13.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="79" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/week_02_elementaryPrograming/Question_02_09.java</url>
