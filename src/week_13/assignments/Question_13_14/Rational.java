@@ -10,8 +10,8 @@ public class Rational extends Number implements Comparable<Rational> {
 
     public Rational(long numerator, long denominator){
         long gcd = gcd(numerator,denominator);
-        r[0] = numerator;
-        r[1] = denominator;
+        r[0] = (denominator > 0 ? 1 : -1) * numerator / gcd;
+        r[1] = Math.abs(denominator) / gcd;
     }
     public long gcd(long n, long d){
         long n1 = Math.abs(n);
@@ -38,7 +38,7 @@ public class Rational extends Number implements Comparable<Rational> {
     }
 
     public Rational subtract(Rational secondRational){
-        long n = getNumerator()* secondRational.getDenominator() - getDenominator() * secondRational.getDenominator();
+        long n = getNumerator()* secondRational.getDenominator() - getDenominator() * secondRational.getNumerator();
         long d = getDenominator() * secondRational.getDenominator();
         return new Rational(n, d);
     }
