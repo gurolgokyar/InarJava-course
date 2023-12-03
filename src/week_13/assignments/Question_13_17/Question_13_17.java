@@ -20,8 +20,10 @@ public class Question_13_17 {
     }
 
     public static void calculateMathApps(Complex number1, Complex number2){
-        System.out.println("(" + number1
-        );
-
+        System.out.println(number1 + " + " + number2 + " = " + number1.add(number2));
+        System.out.println(number1 + " - " + number2 + " = " + number1.subtract(number2));
+        System.out.println(number1 + " * " + number2 + " = " + number1.multiply(number2));
+        System.out.println(number1 + " / " + number2 + " = " + number1.divide(number2));
+        System.out.println("| " + number1 + " | = " + number1.abs());
     }
 }

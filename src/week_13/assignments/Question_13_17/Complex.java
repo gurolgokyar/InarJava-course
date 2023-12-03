@@ -26,7 +26,7 @@ public class Complex implements Cloneable {
     }
 
     public String toString() {
-        return "(" + a + (b == 0 ? "" : ((b > 0 ? " + " : " - ") + b + "i)"));
+        return "(" + a + (b == 0 ? "" : ((b > 0 ? " + " : " - ") + Math.abs(b) + "i)"));
     }
 
     public Complex add(Complex number) {
@@ -49,15 +49,15 @@ public class Complex implements Cloneable {
 
     public Complex divide(Complex number) {
         double realPart =
-                (getRealPart() * number.getRealPart() + getImaginary() * number.getImaginary()) / (Math.pow(number.getRealPart(), 2) + Math.pow(number.getImaginary(), 2));
+                (int)((getRealPart() * number.getRealPart() + getImaginary() * number.getImaginary()) / (Math.pow(number.getRealPart(), 2) + Math.pow(number.getImaginary(), 2)) * 100) / 100.0;
         double imaginaryPart =
-                (getImaginary() * number.getRealPart() + getRealPart() * number.getImaginary()) / (Math.pow(number.getRealPart(), 2) + Math.pow(number.getImaginary(), 2));
+                (int) ((getImaginary() * number.getRealPart() + getRealPart() * number.getImaginary()) / (Math.pow(number.getRealPart(), 2) + Math.pow(number.getImaginary(), 2)) * 100) / 100.0;
 
         return new Complex(realPart, imaginaryPart);
     }
 
     public double abs(){
-        return Math.abs(Math.pow(getRealPart(), 2) + Math.pow(getImaginary(), 2));
+        return Math.sqrt(Math.pow(getRealPart(), 2) + Math.pow(getImaginary(), 2));
     }
 
     public Complex clone()throws CloneNotSupportedException{
