@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="761940c0-f22b-4f4b-8302-7893965d6f14" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Nots/week_11" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_14/workingArea/ArrayListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_14/workingArea/LinkedListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_14/assignments/Question_14_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_14/assignments/Question_14_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_14/assignments/sourse.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_14/workingArea/QueueExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_14/workingArea/MyArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_14/workingArea/MyArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_14/workingArea/LinkedListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_14/workingArea/LinkedListExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_14/workingArea/MySet.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +64,7 @@
       <recent name="C:\Users\user\OneDrive\Masaüstü\WorkSpace\InarAcademy_Java_course\src\week_13\assignments\Question_13_09" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LinkedListExample">
+  <component name="RunManager" selected="Application.Question_14_01">
     <configuration name="ArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week_14.workingArea.ArrayListExample" />
       <module name="lnar-Java-Course" />
@@ -102,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question_13_18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_13.assignments.Question_13_18.Question_13_18" />
+    <configuration name="Question_14_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_14.assignments.Question_14_01" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week_13.assignments.Question_13_18.*" />
+          <option name="PATTERN" value="week_14.assignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question_13_19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_13.assignments.Question_13_19.Question_13_19" />
+    <configuration name="QueueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_14.workingArea.QueueExample" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week_13.assignments.Question_13_19.*" />
+          <option name="PATTERN" value="week_14.workingArea.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Question_14_01" />
+        <item itemvalue="Application.QueueExample" />
         <item itemvalue="Application.LinkedListExample" />
         <item itemvalue="Application.ArrayListExample" />
         <item itemvalue="Application.Question_13_17" />
-        <item itemvalue="Application.Question_13_19" />
-        <item itemvalue="Application.Question_13_18" />
       </list>
     </recent_temporary>
   </component>

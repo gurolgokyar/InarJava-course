@@ -15,8 +15,8 @@ public class LinkedListExample {
             System.out.println(number);
         }
 
-        linkedList.addFirst(5);
-        linkedList.removeLast();
+        linkedList.add(5);
+        linkedList.remove();
 
         System.out.println("\nUpdated LinkedList Elements: ");
         linkedList.forEach(number -> System.out.println(number));
