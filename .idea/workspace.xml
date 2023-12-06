@@ -5,13 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="761940c0-f22b-4f4b-8302-7893965d6f14" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/week_14/assignments/Question_14_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_14/assignments/Question_14_16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_14/assignments/sourse.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_14/workingArea/QueueExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_13/assignments/Question_13_20/Question_13_20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_13/assignments/Question_13_21/Question_13_21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_14/assignments/Question_14_01/Question_14_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_14/assignments/Question_14_02/Question_14_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_14/assignments/Question_14_04/Question_14_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_14/assignments/Question_14_05/Question_14_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_14/assignments/Question_14_06/Question_14_06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_14/assignments/Question_14_16/Question_14_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_14/workingArea/HashMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_14/workingArea/HashSetExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_14/workingArea/StackExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_14/assignments/Question_14_01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_14/assignments/Question_14_16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_14/assignments/sourse.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/week_14/workingArea/LinkedListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_14/workingArea/LinkedListExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_14/workingArea/MySet.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,20 +66,20 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\OneDrive\Masaüstü\WorkSpace\InarAcademy_Java_course\src\week_14\assignments\Question_14_16" />
+      <recent name="C:\Users\user\OneDrive\Masaüstü\WorkSpace\InarAcademy_Java_course\src\week_14\assignments\Question_14_01" />
       <recent name="C:\Users\user\OneDrive\Masaüstü\WorkSpace\InarAcademy_Java_course\src\week_13\workingArea" />
       <recent name="C:\Users\user\OneDrive\Masaüstü\WorkSpace\InarAcademy_Java_course\src\week_13\assignments\Question_13_10" />
       <recent name="C:\Users\user\OneDrive\Masaüstü\WorkSpace\InarAcademy_Java_course\src\week_13\assignments" />
-      <recent name="C:\Users\user\OneDrive\Masaüstü\WorkSpace\InarAcademy_Java_course\src\week_13\assignments\Question_13_08" />
-      <recent name="C:\Users\user\OneDrive\Masaüstü\WorkSpace\InarAcademy_Java_course\src\week_13\assignments\Question_13_09" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Question_14_01">
-    <configuration name="ArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_14.workingArea.ArrayListExample" />
+  <component name="RunManager" selected="Application.Question_14_06">
+    <configuration name="Question_14_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_14.assignments.Question_14_02.Question_14_02" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week_14.workingArea.*" />
+          <option name="PATTERN" value="week_14.assignments.Question_14_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_14.workingArea.LinkedListExample" />
+    <configuration name="Question_14_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_14.assignments.Question_14_04.Question_14_04" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week_14.workingArea.*" />
+          <option name="PATTERN" value="week_14.assignments.Question_14_04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question_13_17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_13.assignments.Question_13_17.Question_13_17" />
+    <configuration name="Question_14_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_14.assignments.Question_14_05.Question_14_05" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week_13.assignments.Question_13_17.*" />
+          <option name="PATTERN" value="week_14.assignments.Question_14_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question_14_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_14.assignments.Question_14_01" />
+    <configuration name="Question_14_06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_14.assignments.Question_14_06.Question_14_06" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week_14.assignments.*" />
+          <option name="PATTERN" value="week_14.assignments.Question_14_06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,8 +126,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_14.workingArea.QueueExample" />
+    <configuration name="StackExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_14.workingArea.StackExample" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
@@ -132,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Question_14_01" />
-        <item itemvalue="Application.QueueExample" />
-        <item itemvalue="Application.LinkedListExample" />
-        <item itemvalue="Application.ArrayListExample" />
-        <item itemvalue="Application.Question_13_17" />
+        <item itemvalue="Application.Question_14_06" />
+        <item itemvalue="Application.Question_14_05" />
+        <item itemvalue="Application.StackExample" />
+        <item itemvalue="Application.Question_14_04" />
+        <item itemvalue="Application.Question_14_02" />
       </list>
     </recent_temporary>
   </component>
