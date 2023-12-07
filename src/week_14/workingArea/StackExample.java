@@ -16,19 +16,21 @@ public class StackExample {
         linkedList1.add(1);
         linkedList1.add(2);
         linkedList1.add(3);
-        System.out.println("Linkedlist -->" + linkedList1);
-        System.out.println(linkedList1.peek());
-        System.out.println(linkedList1.remove());
-        System.out.println(linkedList1.contains(2));
+        System.out.println("Linkedlist(add) -->" + linkedList1);
+        System.out.println("Peek --> " + linkedList1.peek());
+        System.out.println("Remove --> " + linkedList1.remove());
+        System.out.println("Contains --> " + linkedList1.contains(2));
 
         LinkedList<Integer> linkedList = new LinkedList<>();
         linkedList.push(1);
         linkedList.push(2);
         linkedList.push(3);
-        System.out.println(linkedList);
-        System.out.println(linkedList.peek());
-        System.out.println(linkedList.remove());
-        System.out.println(linkedList.get(0));
+
+        System.out.println("Push " + linkedList);
+        System.out.println("Peek --> " +linkedList.peek());
+        System.out.println("Remove --> " +linkedList.remove());
+        System.out.println("Get --> " + linkedList.get(0));
+        System.out.println("Poll --> " + linkedList.poll());
 
 
         System.out.println("------------------------------------------");

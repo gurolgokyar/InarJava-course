@@ -1,1 +1,11 @@
 Collections.sort(distinctNumbers, Collections.reverseOrder());
+
+
+       linkedList.removeLast();
+        linkedList.addFirst(2);
+
+        deque.removeLast();
+        deque.addFirst(2);
+
+        ((LinkedList)queue).addFirst(2);
+        ((LinkedList)queue).removeLast();
