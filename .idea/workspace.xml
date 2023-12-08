@@ -5,14 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="761940c0-f22b-4f4b-8302-7893965d6f14" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/week_14/assignments/Question_14_08/MyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_14/assignments/Question_14_08/Question_14_08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_14/assignments/Question_14_09/MyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_14/assignments/Question_14_09/Question_14_09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_14/workingArea/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_14/assignments/Question_14_10/Question_14_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_14/assignments/Question_14_11/Question_14_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_14/assignments/Question_14_12/Question_14_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_14/assignments/Question_14_13/Question_14_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_14/assignments/Question_14_14/Question_14_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_14/assignments/Question_14_15/Question_14_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_14/assignments/Question_14_16/source.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_14/assignments/Question_14_17/Question_14_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_14/assignments/Question_14_18/ContactManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_14/assignments/Question_14_18/Question_14_18.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Nots/week_14" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nots/week_14" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_14/workingArea/StackExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_14/workingArea/StackExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_14/assignments/Question_14_16/Question_14_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_14/assignments/Question_14_16/Question_14_16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_14/workingArea/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_14/workingArea/TestClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,13 +70,13 @@
       <recent name="C:\Users\user\OneDrive\Masaüstü\WorkSpace\InarAcademy_Java_course\src\week_13\assignments" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Question_14_09">
-    <configuration name="Question_14_06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_14.assignments.Question_14_06.Question_14_06" />
+  <component name="RunManager" selected="Application.Question_14_18">
+    <configuration name="Question_14_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_14.assignments.Question_14_15.Question_14_15" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week_14.assignments.Question_14_06.*" />
+          <option name="PATTERN" value="week_14.assignments.Question_14_15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question_14_07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_14.assignments.Question_14_07.Question_14_07" />
+    <configuration name="Question_14_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_14.assignments.Question_14_16.Question_14_16" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week_14.assignments.Question_14_07.*" />
+          <option name="PATTERN" value="week_14.assignments.Question_14_16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question_14_08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_14.assignments.Question_14_08.Question_14_08" />
+    <configuration name="Question_14_17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_14.assignments.Question_14_17.Question_14_17" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week_14.assignments.Question_14_08.*" />
+          <option name="PATTERN" value="week_14.assignments.Question_14_17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question_14_09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_14.assignments.Question_14_09.Question_14_09" />
+    <configuration name="Question_14_18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_14.assignments.Question_14_18.Question_14_18" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week_14.assignments.Question_14_09.*" />
+          <option name="PATTERN" value="week_14.assignments.Question_14_18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,8 +123,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_14.workingArea.StackExample" />
+    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_14.workingArea.TestClass" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
@@ -133,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Question_14_09" />
-        <item itemvalue="Application.StackExample" />
-        <item itemvalue="Application.Question_14_08" />
-        <item itemvalue="Application.Question_14_07" />
-        <item itemvalue="Application.Question_14_06" />
+        <item itemvalue="Application.Question_14_18" />
+        <item itemvalue="Application.Question_14_17" />
+        <item itemvalue="Application.Question_14_16" />
+        <item itemvalue="Application.Question_14_15" />
+        <item itemvalue="Application.TestClass" />
       </list>
     </recent_temporary>
   </component>
