@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="761940c0-f22b-4f4b-8302-7893965d6f14" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/week_14/assignments/Question_14_19/Question_14_19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_14/assignments/Question_14_20/Post.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_14/assignments/Question_14_20/Question_14_20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_14/assignments/Question_14_21/question_14_21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_14/assignments/Question_14_22/Question_14_22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_14/assignments/Question_14_23/Question_14_23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_14/assignments/Question_14_23/source.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_14/assignments/Question_14_23/sourse2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_14/assignments/Question_14_24/Question_14_24.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_14/assignments/Question_14_05/Question_14_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_14/assignments/Question_14_05/Question_14_05.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -327,11 +319,6 @@
           <url>file://$PROJECT_DIR$/src/week_13/assignments/Question_13_19/Question_13_19.java</url>
           <line>12</line>
           <option name="timeStamp" value="84" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/week_14/assignments/Question_14_09/Question_14_09.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="85" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/week_02_elementaryPrograming/Question_02_09.java</url>
