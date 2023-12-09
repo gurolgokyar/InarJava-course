@@ -35,3 +35,5 @@ public class Question_14_05 {
         return modifiedList;
     }
 }
+// 23 45 0 4 0 2 0 45
+// 23 45 4 45 0 0

@@ -1,0 +1,10 @@
+Write a program that reads words from a text file and displays all the non-duplicate words
+in ascending order. The text file should be prompt to the user.
+***Question_24 :
+Generate an Arraylist of 10 random Integer numbers, nums, and an integer k. Write a Java
+function to determine if there are two distinct indices i and j in the array such that nums[i]
+and nums[j] are both in the array, and the absolute difference between i and j is at most k.
+If there are two distinct indices i and j in the array such that nums[i] and nums[j] are both
+in the array, and the absolute difference between i and j is at most k it should return true.
+Otherwise, it should return false. Use a HashSet to efficiently check for duplicates as you
+iterate through the array.
