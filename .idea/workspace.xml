@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="761940c0-f22b-4f4b-8302-7893965d6f14" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/week_14/assignments/Question_14_25/Question_14_25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_14/assignments/Question_14_26/Question_14_26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_14/workingArea/TestClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_14/assignments/Question_14_11/sourse.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_14/assignments/Question_14_24/Question_14_24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_14/assignments/Question_14_24/Question_14_24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_14/workingArea/StackExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_14/workingArea/StackExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_14/workingArea/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_14/workingArea/TestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_14/assignments/Question_14_11/Question_14_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_14/assignments/Question_14_11/Question_14_11.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,13 +60,13 @@
       <recent name="C:\Users\user\OneDrive\Masaüstü\WorkSpace\InarAcademy_Java_course\src\week_13\assignments" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestClass2">
-    <configuration name="Question_14_24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_14.assignments.Question_14_24.Question_14_24" />
+  <component name="RunManager" selected="Application.Question_14_11">
+    <configuration name="Question_14_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_14.assignments.Question_14_11.Question_14_11" />
       <module name="lnar-Java-Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week_14.assignments.Question_14_24.*" />
+          <option name="PATTERN" value="week_14.assignments.Question_14_11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Question_14_11" />
         <item itemvalue="Application.TestClass2" />
         <item itemvalue="Application.StackExample" />
         <item itemvalue="Application.Question_14_26" />
         <item itemvalue="Application.Question_14_25" />
-        <item itemvalue="Application.Question_14_24" />
       </list>
     </recent_temporary>
   </component>
