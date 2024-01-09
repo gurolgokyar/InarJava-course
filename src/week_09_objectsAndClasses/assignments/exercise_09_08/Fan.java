@@ -10,7 +10,7 @@ public class Fan {
     private double radius = 5;
     private String color = "blue";
 
-    Fan() {
+    public Fan() {
     }
 
     public int getSpeed() {
